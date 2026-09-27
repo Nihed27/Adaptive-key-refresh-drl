@@ -1,6 +1,6 @@
 from .env import EnvConfig, KeyRefreshEnv, OBS_NAMES
 from .baselines import PeriodicPolicy, ThresholdPolicy
-# from .dqn import DQNAgent, DQNConfig
+from .dqn import DQNAgent, DQNConfig
 
 SCENARIOS = {
     # honest monitoring, naive averaging
