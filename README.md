@@ -86,14 +86,6 @@ Training takes about 15 minutes per scenario on a laptop CPU. All seeds are fixe
 - **Non-adaptive adversary.** Next step: an adversarial RL attacker that learns to evade the agent.
 - **Trust needs honest majorities.** If most watchdogs of a node lie, consensus breaks down. Next step: combine trust with Base-Station-side observations.
 
-## References
-1. L. Eschenauer, V. Gligor. *A key-management scheme for distributed sensor networks.* ACM CCS 2002.
-2. R. Di Pietro et al. *POSH: Proactive co-operative self-healing in unattended WSNs.* SRDS 2008.
-3. V. Mnih et al. *Human-level control through deep reinforcement learning.* Nature 2015.
-4. H. van Hasselt, A. Guez, D. Silver. *Deep reinforcement learning with double Q-learning.* AAAI 2016.
-5. A. Jøsang, R. Ismail. *The Beta reputation system.* Bled eConference 2002.
-6. M.-L. Messai, H. Seba. *A survey of key management schemes in multi-phase wireless sensor networks.* Computer Networks 2016.
-7. R. S. Sutton, A. G. Barto. *Reinforcement Learning: An Introduction*, 2nd ed., 2018.
 
 ## License
 MIT
